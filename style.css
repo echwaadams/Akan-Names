@@ -12,6 +12,8 @@ body
     background-color: #2480c8;
     color: white;
     font-weight: 700;
+    align-items: center;
+    justify-content: center;
 }
 .jumbotron
 {
@@ -31,4 +33,37 @@ p
     color: black;
     opacity: 45%;
     padding: 15px;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+.birthdaygetter
+{
+    width: 50%;
+    height: 60vh;
+    border: 1px solid white;
+    border-radius:  5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.wholebirthdaygetter
+{
+    width: 90%;
+    height: 95%;
+}
+.tetxinput
+{
+    width: 100%;
+    height: 50px;
+    outline: none;
+    padding: 10px;
+    box-sizing: border-box;
+    margin-bottom: 30px;
+    border-radius: 2px;
+    border: 0px solid;
+}
+input[type=button]
+{
+    margin-top: 20px;
+    font-weight: 700;
 }
