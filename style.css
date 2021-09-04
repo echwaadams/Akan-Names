@@ -7,6 +7,12 @@
     box-sizing: border-box;
     font-family: 'Poppins',sans-serif;
 }
+body
+{
+    background-color: #2480c8;
+    color: white;
+    font-weight: 700;
+}
 .jumbotron
 {
     -webkit-background-size: 100% 100%;
@@ -19,4 +25,10 @@ h1
     color: black;
     width: 50%;
     font-weight: 700;
+}
+p
+{
+    color: black;
+    opacity: 45%;
+    padding: 15px;
 }
