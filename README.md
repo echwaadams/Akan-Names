@@ -17,13 +17,18 @@ If you find a bug (the website couldn't handle the query and or gave undesired r
 
 If you'd like to request a new function, feel free to do so by opening an issue here. Please include sample queries and their corresponding results.
 
+## link to live site
+ https://echwaadams.github.io/Akan-Names/
+
 
 ## Technologies Used
 HTML
 CSS
 JAVASCRIPT
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+To collaborate, reach me on my Email:adamsechwa18@gmail.com
+
+
 ## Behaviour Driven Development
 - Displays Form For Entering Date and Gender INPUT: "User's Birthdate Entered" INPUT:"User's Gender Entered" OUTPUT:"Display User's Akan Name As Submitted Date and Gender"
 - Displaying an Error Message if Date input Left Blank INPUT: "" OUTPUT:"Display an Error Message"
@@ -31,5 +36,5 @@ JAVASCRIPT
 - Clears Form A nd Reset the Click INPUT:"Click Clear Selection Button" OUTPUT:"Clears and Resets the form"
 ### License
 
-Copyright (c) 2021 Adams Echwa
+Copyright MIT (c) 2021 Adams Echwa
   
